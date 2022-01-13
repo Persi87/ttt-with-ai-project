@@ -2,7 +2,8 @@
 
 require_relative '../config/environment.rb'
 
+Game.tictactoe
 
 
 
-puts "hello"
+
